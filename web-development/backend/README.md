@@ -76,6 +76,8 @@ Backend development is building the server-side of applications—the logic, dat
 
 #### 📚 Learning Resources
 
+#### 📚 Learning Resources
+
 **YouTube Tutorial:**
 > [ADD YOUTUBE LINK HERE]
 
@@ -1319,11 +1321,3 @@ Build a chat system with MongoDB storing message history.
 
 ---
 
-### 🧩 Skill 9 — API Security
-
-**Description:** Protect your APIs from common vulnerabilities and attacks. Build secure applications.
-
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE
