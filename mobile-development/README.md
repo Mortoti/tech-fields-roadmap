@@ -1345,38 +1345,182 @@ Build an IoT device control app.
 
 ---
 
-### 🧩 Skill 10 — Testing & Deployment
-
+## 🧩 Skill 10 — Testing & Deployment
 **Description:** Test your app thoroughly and publish to App Store and Play Store.
 
-#### 📚 Learning Resources
+---
 
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
+### 📚 Learning Resources
 
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
+**YouTube Tutorials:**
+- [React Native Testing Tutorial - Jest & React Native Testing Library](https://www.youtube.com/watch?v=L1dtkLeIz-M) (Programming with Mosh)
+- [Complete Guide to Publishing React Native Apps](https://www.youtube.com/watch?v=LE4Mgkrf7Sk) (William Candillon)
+- [React Native Testing Tutorial - Full Course](https://www.youtube.com/watch?v=LLJdVL0Gez8) (freeCodeCamp)
+
+**Documentation:**
+- [Jest Official Documentation](https://jestjs.io/docs/getting-started)
+- [React Native Testing Library Docs](https://callstack.github.io/react-native-testing-library/)
+- [Detox End-to-End Testing](https://wix.github.io/Detox/)
+- [Publishing to App Store](https://reactnative.dev/docs/publishing-to-app-store)
+- [Publishing to Google Play Store](https://reactnative.dev/docs/signed-apk-android)
 
 **Recommended Free Resources:**
-- [Jest Testing](https://jestjs.io/)
+- [Jest Testing Framework](https://jestjs.io/)
 - [React Native Testing Library](https://callstack.github.io/react-native-testing-library/)
 - [App Store Connect Guide](https://developer.apple.com/app-store-connect/)
-- [Google Play Console Guide](https://support.google.com/googleplay/android-developer/)
+- [Google Play Console Guide](https://play.google.com/console/about/)
+- [Expo Application Services (EAS)](https://docs.expo.dev/eas/) — Simplified builds and submissions
 
-#### 🧠 What You'll Learn
+---
+
+### 🧠 What You'll Learn
+
+**Testing Fundamentals:**
 - [ ] Unit testing with Jest
-- [ ] Component testing
-- [ ] Integration testing
-- [ ] End-to-end testing (Detox)
-- [ ] Test coverage
-- [ ] Debugging tools
-- [ ] Performance profiling
-- [ ] App Store submission process
-- [ ] Play Store submission process
-- [ ] App signing and certificates
-- [ ] App icons and splash screens
-- [ ] Store listings and screenshots
-- [ ] Beta testing (TestFlight, Internal Testing)
+- [ ] Component testing with React Native Testing Library
+- [ ] Integration testing patterns
+- [ ] End-to-end testing with Detox
+- [ ] Test coverage analysis
+- [ ] Mocking API calls and dependencies
+- [ ] Testing async operations
+
+**Debugging & Performance:**
+- [ ] React DevTools for debugging
+- [ ] Flipper for mobile debugging
+- [ ] Performance profiling tools
+- [ ] Memory leak detection
+- [ ] App performance optimization
+- [ ] Crash analytics (Sentry, Firebase Crashlytics)
+
+**App Store Deployment:**
+- [ ] Apple Developer account setup ($99/year)
+- [ ] App signing and certificates (iOS)
+- [ ] Creating app bundles (iOS)
+- [ ] App Store Connect submission
+- [ ] App Store Review Guidelines compliance
+- [ ] TestFlight beta testing
+- [ ] App Store optimization (ASO)
+
+**Play Store Deployment:**
+- [ ] Google Play Developer account setup ($25 one-time)
+- [ ] App signing with Android Keystore
+- [ ] Creating release builds (APK/AAB)
+- [ ] Google Play Console submission
+- [ ] Play Store listing optimization
+- [ ] Internal testing and beta releases
 - [ ] App updates and versioning
 
-#### 💼 Real-World Projects
+**Production Essentials:**
+- [ ] App icons and splash screens for all sizes
+- [ ] Store listings and screenshots
+- [ ] Privacy policy and terms of service
+- [ ] App versioning strategy
+- [ ] Over-the-air (OTA) updates
+- [ ] Monitoring app health in production
+
+---
+
+### 💼 Real-World Projects
+
+#### **Project 1: Test Your Previous Apps**
+**Goal:** Add comprehensive testing to one of your earlier projects
+
+**Requirements:**
+- [ ] Write unit tests for utility functions (80%+ coverage)
+- [ ] Add component tests for all screens
+- [ ] Test user interactions (button clicks, form inputs)
+- [ ] Mock API calls and test error handling
+- [ ] Add integration tests for user flows
+- [ ] Generate test coverage report
+- [ ] Document testing setup in README
+
+**What You'll Practice:** Jest, React Native Testing Library, mocking, test coverage
+
+---
+
+#### **Project 2: Full App Store Deployment**
+**Goal:** Publish an app to Apple App Store
+
+**Requirements:**
+- [ ] Create Apple Developer account
+- [ ] Design app icon in all required sizes
+- [ ] Create splash screen
+- [ ] Set up signing certificates
+- [ ] Build release version
+- [ ] Create App Store listing (description, screenshots, keywords)
+- [ ] Submit for review
+- [ ] Set up TestFlight for beta testing
+- [ ] Document entire deployment process
+
+**What You'll Practice:** iOS deployment, App Store Connect, TestFlight, ASO
+
+---
+
+#### **Project 3: Full Play Store Deployment**
+**Goal:** Publish an app to Google Play Store
+
+**Requirements:**
+- [ ] Create Google Play Developer account
+- [ ] Generate signed APK/AAB
+- [ ] Set up Android keystore properly
+- [ ] Create Play Store listing (all required assets)
+- [ ] Add screenshots for multiple device sizes
+- [ ] Write compelling app description
+- [ ] Set up internal testing track
+- [ ] Submit for review
+- [ ] Document deployment process
+
+**What You'll Practice:** Android deployment, Play Store Console, app signing, store optimization
+
+---
+
+### ✅ Completion Checklist
+
+You've mastered this skill when you can:
+- [ ] Write comprehensive tests for any React Native app
+- [ ] Debug issues using professional tools
+- [ ] Successfully deploy apps to both App Store and Play Store
+- [ ] Handle app updates and versioning
+- [ ] Optimize store listings for discovery
+- [ ] Set up beta testing programs
+- [ ] Monitor app health in production
+
+---
+
+### 💡 Pro Tips
+
+**Testing:**
+- Start with simple unit tests, then move to integration tests
+- Aim for 70-80% code coverage (100% isn't always practical)
+- Test user interactions, not implementation details
+- Mock external dependencies to keep tests fast
+
+**Deployment:**
+- Keep your signing certificates and keystores SECURE (never commit to Git!)
+- Test on real devices before submitting to stores
+- Prepare high-quality screenshots — they impact downloads
+- Read store review guidelines carefully to avoid rejection
+- Start with TestFlight/Internal Testing before public release
+
+**Post-Launch:**
+- Monitor crash reports daily (use Firebase Crashlytics or Sentry)
+- Respond to user reviews (especially negative ones)
+- Plan regular updates to fix bugs and add features
+- Use analytics to understand user behavior
+
+---
+
+### 🎯 Next Steps
+
+After mastering testing and deployment:
+1. **Monitor your app** — Set up analytics and crash reporting
+2. **Gather feedback** — Talk to real users
+3. **Iterate** — Update based on user needs
+4. **Market** — Share on social media, communities, Product Hunt
+5. **Build more apps** — Apply everything you've learned to new projects
+
+**Congratulations!** 🎉 You're now a complete mobile developer capable of building and shipping production-ready apps.
+
+---
+
+> 💬 *Tip:* Your first app submission will likely get rejected. Don't worry — it's normal! Read the feedback, fix issues, and resubmit. Most apps are approved within 2-3 submissions.
