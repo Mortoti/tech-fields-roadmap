@@ -52,7 +52,7 @@ Transform raw data into business insights
 
 ---
 
-## [🧠 Data Science](./data-science/README.md)
+## [🧠 Data Science](./data_science/README.md)
 
 Build predictive models and extract insights
 
