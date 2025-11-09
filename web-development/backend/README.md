@@ -1321,3 +1321,347 @@ Build a chat system with MongoDB storing message history.
 
 ---
 
+### 🧩 Skill 9 — API Security
+
+**Description:** Protect your APIs from common vulnerabilities and attacks. Build secure applications.
+
+#### 📚 Learning Resources
+
+**YouTube Tutorial:**
+> [ADD YOUTUBE LINK HERE]
+
+**PDF/Documentation:**
+> [ADD PDF LINK HERE]
+
+**Recommended Free Resources:**
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- [API Security Best Practices](https://owasp.org/www-project-api-security/)
+
+#### 🧠 What You'll Learn
+- [ ] HTTPS and SSL/TLS
+- [ ] Input validation and sanitization
+- [ ] SQL injection prevention
+- [ ] Cross-Site Scripting (XSS) prevention
+- [ ] CSRF (Cross-Site Request Forgery) protection
+- [ ] Rate limiting and throttling
+- [ ] API key management
+- [ ] CORS configuration
+- [ ] Security headers
+- [ ] Data encryption
+- [ ] Secure file uploads
+- [ ] Environment variables for secrets
+- [ ] Logging and monitoring
+
+#### 💼 Real-World Projects
+
+---
+
+#### 📦 **Project 1: Secure Banking API**
+Build a highly secure banking API with all security measures.
+
+**What it includes:**
+- User authentication with 2FA (Two-Factor Authentication)
+- Account balance and transactions
+- Money transfer between accounts
+- Transaction history
+- Security logs for all actions
+- IP whitelist for admin actions
+- Session timeout
+
+**Key features:**
+- ✅ Input validation on all endpoints
+- ✅ SQL injection prevention
+- ✅ Rate limiting (prevent brute force)
+- ✅ Encrypted sensitive data
+- ✅ Security headers (helmet.js or equivalent)
+- ✅ Audit logs for all transactions
+- ✅ HTTPS required
+- ✅ Two-factor authentication
+
+**What you'll practice:** Comprehensive security, 2FA, encryption, audit logging, rate limiting, input validation
+
+---
+
+#### 📦 **Project 2: File Upload API with Security**
+Create a secure file upload system with multiple protection layers.
+
+**What it includes:**
+- File upload endpoint
+- File type validation (images only)
+- File size limits
+- Virus scanning (mock)
+- Secure file storage
+- Generate secure download URLs
+- Access control (owner only)
+- Automatic deletion after time period
+
+**Key features:**
+- ✅ File type whitelist validation
+- ✅ MIME type checking
+- ✅ File size limits enforced
+- ✅ Random filename generation
+- ✅ Secure storage location (outside public folder)
+- ✅ Signed URLs for downloads
+- ✅ Access control middleware
+- ✅ Malicious file detection
+
+**What you'll practice:** File upload security, validation, access control, secure storage, signed URLs
+
+---
+
+#### 📦 **Project 3: API Security Audit Tool**
+Build a tool that tests APIs for common vulnerabilities.
+
+**What it includes:**
+- Test for SQL injection vulnerabilities
+- Check for missing rate limiting
+- Verify HTTPS enforcement
+- Test authentication weaknesses
+- Check security headers
+- Test CORS configuration
+- Generate security report
+
+**Key features:**
+- ✅ Automated vulnerability scanning
+- ✅ Multiple test cases for each vulnerability
+- ✅ Detailed reporting
+- ✅ Severity classification
+- ✅ Remediation suggestions
+- ✅ Support for multiple endpoints
+- ✅ Export results to PDF/HTML
+
+**What you'll practice:** Security testing, vulnerability assessment, automation, penetration testing basics
+
+---
+
+### 🧩 Skill 10 — Testing & Deployment
+
+**Description:** Write tests to ensure code quality and deploy applications to production servers.
+
+#### 📚 Learning Resources
+
+**YouTube Tutorial:**
+> [ADD YOUTUBE LINK HERE]
+
+**PDF/Documentation:**
+> [ADD PDF LINK HERE]
+
+**Recommended Free Resources:**
+- [Testing Best Practices](https://testingjavascript.com/)
+- [Heroku Deployment Guide](https://devcenter.heroku.com/)
+- [AWS Deployment Basics](https://aws.amazon.com/getting-started/)
+
+#### 🧠 What You'll Learn
+- [ ] Unit testing basics
+- [ ] Integration testing
+- [ ] API testing (Postman, automated)
+- [ ] Test-driven development (TDD)
+- [ ] Testing frameworks (Jest, PyTest, JUnit)
+- [ ] Mocking and stubbing
+- [ ] Code coverage
+- [ ] CI/CD basics
+- [ ] Deployment platforms (Heroku, AWS, Railway, Render)
+- [ ] Environment configuration
+- [ ] Database migration in production
+- [ ] Monitoring and logging
+- [ ] Domain and SSL setup
+
+#### 💼 Real-World Projects
+
+---
+
+#### 📦 **Project 1: Well-Tested API**
+Add comprehensive tests to one of your existing APIs.
+
+**What it includes:**
+- Unit tests for all functions/methods
+- Integration tests for API endpoints
+- Test database setup and teardown
+- Mock external API calls
+- Test authentication flows
+- Test error handling
+- 80%+ code coverage
+
+**Key features:**
+- ✅ Test all CRUD operations
+- ✅ Test authentication and authorization
+- ✅ Test validation and error responses
+- ✅ Test edge cases
+- ✅ Automated test runs
+- ✅ Code coverage reports
+- ✅ CI pipeline setup (GitHub Actions)
+
+**What you'll practice:** Unit testing, integration testing, test automation, CI/CD, code coverage
+
+---
+
+#### 📦 **Project 2: Deploy Full-Stack Application**
+Deploy a complete backend application to production.
+
+**What it includes:**
+- Choose deployment platform (Heroku, Railway, AWS)
+- Configure production database
+- Set up environment variables
+- Configure custom domain
+- Set up SSL certificate (HTTPS)
+- Configure logging and monitoring
+- Set up automatic deployments
+
+**Key features:**
+- ✅ Production-ready configuration
+- ✅ Environment-based settings (dev vs production)
+- ✅ Database migrations automated
+- ✅ HTTPS enabled
+- ✅ Custom domain connected
+- ✅ Error monitoring (Sentry or similar)
+- ✅ Automatic deployments from GitHub
+
+**What you'll practice:** Deployment, server configuration, environment management, SSL, monitoring
+
+---
+
+#### 📦 **Project 3: CI/CD Pipeline Setup**
+Create automated testing and deployment pipeline.
+
+**What it includes:**
+- GitHub Actions workflow (or GitLab CI)
+- Automated testing on push
+- Automated deployment on merge to main
+- Database migration automation
+- Environment variable management
+- Slack/email notifications
+- Rollback strategy
+
+**Key features:**
+- ✅ Automated test runs on every commit
+- ✅ Deploy only if tests pass
+- ✅ Multiple environments (staging, production)
+- ✅ Automated database migrations
+- ✅ Build status badges
+- ✅ Notification system
+- ✅ Easy rollback process
+
+**What you'll practice:** CI/CD, automation, DevOps basics, deployment pipelines, production workflows
+
+
+---
+
+### 🧩 Skill 9 — API Security
+
+**Description:** Protect your APIs from common vulnerabilities and attacks. Build secure applications.
+
+#### 📚 Learning Resources
+
+**YouTube Tutorial:**
+> [ADD YOUTUBE
+
+---
+
+## 4️⃣ 📚 Additional Resources
+
+### Practice Platforms
+- [HackerRank](https://www.hackerrank.com/) — Coding challenges
+- [LeetCode](https://leetcode.com/) — Interview preparation
+- [Exercism](https://exercism.org/) — Practice with mentorship
+- [Backend Challenges](https://github.com/CollabCodeTech/backend-challenges) — Real-world projects
+
+### Communities
+- [Stack Overflow](https://stackoverflow.com/) — Q&A for developers
+- [Dev.to](https://dev.to/) — Developer articles and community
+- [Reddit r/backend](https://www.reddit.com/r/backend/)
+- [Discord: The Programmer's Hangout](https://discord.gg/programming)
+
+### YouTube Channels
+- **Python:** Corey Schafer, Tech With Tim
+- **Java:** Amigoscode, Java Brains
+- **General Backend:** Traversy Media, freeCodeCamp, Hussein Nasser
+
+### Documentation (Bookmark These)
+- [Django Documentation](https://docs.djangoproject.com/)
+- [Flask Documentation](https://flask.palletsprojects.com/)
+- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
+- [MySQL Documentation](https://dev.mysql.com/doc/)
+- [MongoDB Documentation](https://www.mongodb.com/docs/)
+
+### Books (Optional but Recommended)
+- "Clean Code" by Robert C. Martin
+- "Designing Data-Intensive Applications" by Martin Kleppmann
+- "RESTful Web APIs" by Leonard Richardson
+
+---
+
+## 5️⃣ ✅ Completion Tracker
+
+### Programming Foundations
+- [ ] Programming language mastery (Python/Java)
+- [ ] Git & GitHub proficiency
+- [ ] Data structures & algorithms basics
+
+### Database Skills
+- [ ] SQL and MySQL expertise
+- [ ] Database design and normalization
+- [ ] NoSQL (MongoDB) proficiency
+- [ ] Database optimization
+
+### Backend Development
+- [ ] Web framework mastery
+- [ ] RESTful API design and implementation
+- [ ] Authentication and authorization
+- [ ] API security best practices
+
+### Production Ready
+- [ ] Testing (unit and integration)
+- [ ] Deployment experience
+- [ ] CI/CD pipeline setup
+- [ ] Monitoring and logging
+
+### Portfolio
+- [ ] 10+ backend projects completed
+- [ ] All projects on GitHub with READMEs
+- [ ] At least 3 projects deployed live
+- [ ] Portfolio/resume updated
+
+---
+
+## 💡 Tips for Success
+
+> **Build real projects constantly.** Backend is learned by doing, not just watching tutorials.
+
+> **Master one framework deeply.** Don't jump between Django, Flask, and Spring. Pick one and go deep.
+
+> **Database design is crucial.** Spend extra time on database skills—bad database design causes 80% of backend problems.
+
+> **Security is not optional.** Learn security from day one. Never store passwords in plain text, always validate input.
+
+> **Read other people's code.** Study open-source backend projects on GitHub to see professional patterns.
+
+> **Test your code.** Get comfortable writing tests early. It saves debugging time and makes you more employable.
+
+> **Document everything.** Good API documentation is as important as the code itself.
+
+> **Deploy early and often.** Don't wait until everything is perfect. Deploy small projects to get comfortable with production.
+
+---
+
+## 🎯 Next Steps After Completion
+
+1. **Build a major capstone project** — Combine everything you've learned into one impressive application
+2. **Contribute to open source** — Find backend projects on GitHub and contribute
+3. **Apply for backend developer jobs** — Junior Backend Developer, Backend Engineer positions
+4. **Learn microservices** — Break applications into smaller services
+5. **Explore DevOps** — Docker, Kubernetes, cloud platforms
+6. **Consider specialization** — API design, database administration, cloud architecture
+7. **Keep learning** — GraphQL, WebSockets, message queues, caching strategies
+
+---
+
+## 🚀 You're Ready to Build the Backend!
+
+Backend development is challenging but incredibly rewarding. You'll build the systems that power the applications millions of people use. Stay consistent, build real projects, and never stop learning.
+
+**Remember:** Every backend system at Google, Facebook, Amazon, and Netflix was built by developers who started exactly where you are now.
+
+---
+
+[← Back to Web Development](../README.md) | [🏠 Main Roadmap](../../README.md)
+
