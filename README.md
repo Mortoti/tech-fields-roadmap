@@ -60,7 +60,7 @@ Build predictive models and extract insights
 **Timeline:** 12–18 months  
 **Best for:** Math enthusiasts and analytical minds
 
-[📚 View Full Roadmap →](./data-science/README.md)
+[📚 View Full Roadmap →](./data_science/README.md)
 
 ---
 
