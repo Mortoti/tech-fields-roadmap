@@ -31,20 +31,19 @@ Backend development is building the server-side of applications—the logic, dat
 
 ## 2️⃣ Complete Skills List & Timeline
 
-| # | Skill | Description | Duration |
-|---|-------|-------------|----------|
-| 1 | Programming Language | Python or Java - Choose based on your region | 5 weeks |
-| 2 | Git & GitHub | Version control and collaboration | 1 week |
-| 3 | Data Structures & Algorithms | Essential programming concepts | 4 weeks |
-| 4 | SQL & MySQL | Relational database fundamentals | 4 weeks |
-| 5 | Web Framework | Django/Flask (Python) or Spring Boot (Java) | 5 weeks |
-| 6 | RESTful APIs | Building professional APIs | 4 weeks |
-| 7 | Authentication & Authorization | User security and access control | 3 weeks |
-| 8 | NoSQL (MongoDB) | Document-based databases | 3 weeks |
-| 9 | API Security | Protecting your applications | 2 weeks |
-| 10 | Testing & Deployment | Production-ready applications | 3 weeks |
+| # | Skill | Description | 
+|---|-------|-------------|
+| 1 | Programming Language | Python or Java - Choose based on your region |
+| 2 | Git & GitHub | Version control and collaboration | 
+| 3 | Data Structures & Algorithms | Essential programming concepts | 
+| 4 | SQL & MySQL | Relational database fundamentals |
+| 5 | Web Framework | Django/Flask (Python) or Spring Boot (Java) | 
+| 6 | RESTful APIs | Building professional APIs |
+| 7 | Authentication & Authorization | User security and access control | 
+| 8 | NoSQL (MongoDB) | Document-based databases | 
+| 9 | API Security | Protecting your applications | 
+| 10 | Testing & Deployment | Production-ready applications | 
 
-**Total Timeline:** 8-10 months (studying 2-3 hours daily)
 
 ---
 
@@ -73,16 +72,6 @@ Backend development is building the server-side of applications—the logic, dat
 ---
 
 ### 📘 If You Chose Python:
-
-#### 📚 Learning Resources
-
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
@@ -189,13 +178,6 @@ Build a tool that tests APIs for common vulnerabilities.
 
 **Description:** Write tests to ensure code quality and deploy applications to production servers.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Testing Best Practices](https://testingjavascript.com/)
@@ -405,8 +387,6 @@ Backend development is challenging but incredibly rewarding. You'll build the sy
 
 [← Back to Web Development](../README.md) | [🏠 Main Roadmap](../../README.md) LINK HERE]
 
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Python Official Tutorial](https://docs.python.org/3/tutorial/)
@@ -429,13 +409,7 @@ Backend development is challenging but incredibly rewarding. You'll build the sy
 
 ### 📗 If You Chose Java:
 
-#### 📚 Learning Resources
 
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Java Official Documentation](https://docs.oracle.com/javase/tutorial/)
@@ -535,13 +509,7 @@ Build a simple banking system with accounts and transactions.
 
 **Description:** Version control for backend projects. Essential for collaboration and tracking code changes.
 
-#### 📚 Learning Resources
 
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Git Official Documentation](https://git-scm.com/doc)
@@ -636,14 +604,6 @@ Create comprehensive documentation for your portfolio projects.
 ### 🧩 Skill 3 — Data Structures & Algorithms (DSA)
 
 **Description:** Essential programming concepts for solving problems efficiently and passing technical interviews.
-
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Data Structures Easy to Advanced (freeCodeCamp)](https://www.youtube.com/watch?v=RBSGKlAvoiM)
@@ -741,13 +701,7 @@ Solve and document backend-relevant coding problems.
 
 **Description:** Learn relational databases starting with MySQL. Store, query, and manage data efficiently.
 
-#### 📚 Learning Resources
 
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [MySQL Official Documentation](https://dev.mysql.com/doc/)
@@ -854,13 +808,7 @@ Create a school database with stored procedures and triggers.
 
 **Recommendation:** Start with **Django** if you want everything built-in. Choose **Flask** if you prefer flexibility and minimal setup.
 
-#### 📚 Learning Resources (Django)
 
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Django Official Tutorial](https://docs.djangoproject.com/en/stable/intro/tutorial01/)
@@ -868,11 +816,7 @@ Create a school database with stored procedures and triggers.
 
 #### 📚 Learning Resources (Flask)
 
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
 
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Flask Official Tutorial](https://flask.palletsprojects.com/en/stable/tutorial/)
@@ -884,13 +828,6 @@ Create a school database with stored procedures and triggers.
 
 **Framework:** **Spring Boot** (Industry standard)
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Spring Boot Official Guides](https://spring.io/guides)
@@ -997,13 +934,7 @@ Build the backend for an online store.
 
 **Description:** Master REST architecture principles and build professional, scalable APIs.
 
-#### 📚 Learning Resources
 
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [REST API Tutorial](https://restfulapi.net/)
@@ -1107,14 +1038,6 @@ Build a public-facing API with proper security and limits.
 
 **Description:** Implement secure user authentication and access control in your applications.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
-
 **Recommended Free Resources:**
 - [JWT.io Introduction](https://jwt.io/introduction)
 - [OWASP Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
@@ -1216,13 +1139,6 @@ Add "Login with Google/GitHub" functionality.
 
 **Description:** Learn document-based databases for flexible data modeling and high scalability.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [MongoDB Official Tutorial](https://www.mongodb.com/docs/manual/tutorial/)
@@ -1325,13 +1241,6 @@ Build a chat system with MongoDB storing message history.
 
 **Description:** Protect your APIs from common vulnerabilities and attacks. Build secure applications.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
@@ -1438,13 +1347,6 @@ Build a tool that tests APIs for common vulnerabilities.
 
 **Description:** Write tests to ensure code quality and deploy applications to production servers.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Testing Best Practices](https://testingjavascript.com/)
@@ -1550,10 +1452,6 @@ Create automated testing and deployment pipeline.
 
 **Description:** Protect your APIs from common vulnerabilities and attacks. Build secure applications.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE
 
 ---
 
