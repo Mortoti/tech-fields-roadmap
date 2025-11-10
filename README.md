@@ -12,7 +12,6 @@ Most learning resources dump information without structure. These roadmaps are d
 
 ✅ **Sequential learning** — Skills in optimal order, no gaps  
 ✅ **Project-based** — Build real portfolio pieces, not toy apps  
-✅ **Time estimates** — Know exactly how long each skill takes  
 ✅ **100% free resources** — No paywalls to start learning  
 ✅ **Job-focused** — Learn what employers actually want  
 
@@ -36,8 +35,6 @@ Build websites and web applications
 - [Frontend](./web-development/frontend/README.md) — React, TypeScript, CSS
 - [Backend](./web-development/backend/README.md) — Node.js, APIs, databases
 
-**⏱️ Timeline:** 6–12 months  
-**💰 Salary:** $60K–$120K  
 **🎯 Best for:** Visual thinkers who love instant feedback
 
 [📚 View Full Roadmap →](./web-development/README.md)
@@ -51,8 +48,6 @@ Create iOS and Android apps
 **What you'll build:** Social apps, productivity tools, games  
 **Technologies:** React Native, Flutter, Swift, Kotlin
 
-**⏱️ Timeline:** 8–12 months  
-**💰 Salary:** $70K–$130K  
 **🎯 Best for:** Those who want to build products in everyone's pocket
 
 [📚 View Full Roadmap →](./mobile-development/README.md)
@@ -75,8 +70,6 @@ Turn raw data into business insights
 **What you'll build:** Sales dashboards, customer reports, trend analysis  
 **Technologies:** SQL, Excel, Python, Tableau, Power BI
 
-**⏱️ Timeline:** 4–8 months  
-**💰 Salary:** $55K–$95K  
 **🎯 Best for:** Logical thinkers who love finding patterns
 
 [📚 View Full Roadmap →](./data-analytics/README.md)
@@ -90,8 +83,7 @@ Build predictive models with machine learning
 **What you'll build:** Recommendation engines, fraud detection, forecasting  
 **Technologies:** Python, Statistics, ML, Pandas, Scikit-learn
 
-**⏱️ Timeline:** 12–18 months  
-**💰 Salary:** $85K–$140K  
+
 **🎯 Best for:** Math lovers who want to predict the future
 
 [📚 View Full Roadmap →](./data-science/README.md)
@@ -114,8 +106,7 @@ Create intelligent, self-learning systems
 **What you'll build:** Chatbots, image recognition, NLP models  
 **Technologies:** Python, TensorFlow, PyTorch, Neural Networks
 
-**⏱️ Timeline:** 12–24 months  
-**💰 Salary:** $90K–$160K  
+
 **🎯 Best for:** Those fascinated by artificial intelligence
 
 [📚 View Full Roadmap →](./ai-machine-learning/README.md)
@@ -129,8 +120,7 @@ Automate everything, deploy faster
 **What you'll build:** CI/CD pipelines, infrastructure as code, monitoring  
 **Technologies:** Docker, Kubernetes, AWS, Terraform
 
-**⏱️ Timeline:** 8–12 months  
-**💰 Salary:** $90K–$150K  
+ 
 **🎯 Best for:** Efficiency lovers and problem solvers
 
 [📚 View Full Roadmap →](./devops/README.md)
@@ -153,8 +143,7 @@ Protect systems from threats
 **What you'll build:** Security audits, penetration tests, threat analysis  
 **Technologies:** Linux, Networking, Ethical Hacking, SIEM
 
-**⏱️ Timeline:** 10–15 months  
-**💰 Salary:** $75K–$130K  
+
 **🎯 Best for:** Detail-oriented people who think like attackers
 
 [📚 View Full Roadmap →](./cybersecurity/README.md)
@@ -168,8 +157,7 @@ Design beautiful, intuitive experiences
 **What you'll build:** App interfaces, websites, design systems  
 **Technologies:** Figma, Adobe XD, User Research, Prototyping
 
-**⏱️ Timeline:** 6–10 months  
-**💰 Salary:** $60K–$120K  
+
 **🎯 Best for:** Creative minds with user empathy
 
 [📚 View Full Roadmap →](./ui-ux-design/README.md)
@@ -188,8 +176,7 @@ Lead teams and ship products
 **What you'll do:** Run sprints, manage roadmaps, coordinate teams  
 **Technologies:** Agile, Scrum, JIRA, Stakeholder Management
 
-**⏱️ Timeline:** 3–6 months (with tech background)  
-**💰 Salary:** $75K–$140K  
+ 
 **🎯 Best for:** Organized communicators who love leading
 
 [📚 View Full Roadmap →](./project-management/README.md)
@@ -237,14 +224,12 @@ Every roadmap follows the same battle-tested structure:
 ### 1️⃣ Introduction & Daily Reality
 - What professionals actually do every day
 - Why this field matters
-- Salary ranges and career growth
 - Is this right for you?
 
 ### 2️⃣ Complete Skills List with Timeline
 - Every skill you need
 - Exact order to learn them
-- Time estimate for each
-- Total timeline to job-ready
+
 
 ### 3️⃣ Detailed Skill Breakdown
 **For each skill:**
@@ -262,7 +247,7 @@ Every roadmap follows the same battle-tested structure:
 ### 5️⃣ Progress Tracker
 - Checkbox system to track your journey
 - Foundation → Core → Advanced
-- Clear path to job-ready
+
 
 ---
 
@@ -343,29 +328,8 @@ learning/
 
 ---
 
-## 📊 Realistic Timelines & Expectations
 
-| Career Path | Beginner → Job Ready | Hours/Week | Total Hours | First Salary Range |
-|-------------|---------------------|------------|-------------|-------------------|
-| Frontend Dev | 6-9 months | 15-20 | 500-800 | $60K-$90K |
-| Backend Dev | 8-12 months | 15-20 | 600-1000 | $70K-$100K |
-| Full Stack | 12-15 months | 20-25 | 1000-1500 | $75K-$110K |
-| Data Analytics | 4-8 months | 15-20 | 400-700 | $55K-$85K |
-| Data Science | 12-18 months | 15-20 | 900-1500 | $85K-$120K |
-| Mobile Dev | 8-12 months | 15-20 | 600-1000 | $70K-$105K |
-| DevOps | 8-12 months | 15-20 | 600-1000 | $90K-$130K |
-| Cybersecurity | 10-15 months | 15-20 | 800-1300 | $75K-$110K |
-| UI/UX Design | 6-10 months | 15-20 | 500-900 | $60K-$95K |
-| Project Mgmt | 3-6 months* | 10-15 | 300-500 | $75K-$110K |
 
-*Project Management assumes existing tech background
-
-**Important:** These are averages. Your pace may be faster or slower based on:
-- Prior experience
-- Time commitment
-- Learning efficiency
-- Support system
-- Natural aptitude
 
 ---
 
@@ -454,19 +418,6 @@ You're ready to start applying when you can check all these boxes:
 - Write READMEs immediately
 - Your portfolio is your resume
 
----
-
-## 💡 Pro Tips from People Who Made It
-
-> "I spent 3 months watching tutorials. Then 2 months actually building. I learned more in those 2 months than the entire 3 months of watching." — Sarah, Frontend Developer
-
-> "My first projects were terrible. I pushed them anyway. Now employers see my growth from those early projects to my recent ones." — James, Full Stack Developer
-
-> "I studied 1 hour every single morning before work. 8 months later, I had a new career." — Maria, Data Analyst
-
-> "Join communities. I learned more from helping others debug than from any course." — David, Backend Developer
-
-> "Don't wait to feel 'ready' to apply. Apply when you're 70% ready. You'll learn the rest on the job." — Lisa, DevOps Engineer
 
 ---
 
@@ -543,8 +494,8 @@ This is an **open-source project**. Help make it better for everyone!
 
 ### Questions?
 - 📧 **Email:** mortoti.dev@gmail.com
-- 🐛 **Issues:** [Open an issue](https://github.com/yourusername/tech-roadmaps/issues)
-- 💬 **Discussions:** [Join the conversation](https://github.com/yourusername/tech-roadmaps/discussions)
+- 🐛 **Issues:** [Open an issue](https://github.com/Mortoti/tech-fields-roadmap/issues)
+- 💬 **Discussions:** [Join the conversation](https://github.com/Mortoti/tech-fields-roadmap/discussions)
 
 ### Stay Updated
 - ⭐ **Star this repo** for updates
