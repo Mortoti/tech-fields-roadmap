@@ -29,22 +29,21 @@ Mobile development is creating applications for smartphones and tablets. You'll 
 
 ---
 
-## 2️⃣ Complete Skills List & Timeline
+## 2️⃣ Complete Skills List 
 
-| # | Skill | Description | Duration |
-|---|-------|-------------|----------|
-| 1 | Programming Fundamentals | JavaScript/Dart or Swift/Kotlin | 4 weeks |
-| 2 | Git & GitHub | Version control and collaboration | 1 week |
-| 3 | Mobile UI/UX Basics | Design principles for mobile | 2 weeks |
-| 4 | Choose Your Path | Cross-platform OR Native development | - |
-| 5 | Core Framework | React Native/Flutter OR Swift/Kotlin | 6 weeks |
-| 6 | Navigation & Routing | Multi-screen apps | 2 weeks |
-| 7 | State Management | Managing app data | 3 weeks |
-| 8 | APIs & Backend Integration | Connecting to servers | 3 weeks |
-| 9 | Device Features | Camera, GPS, notifications, storage | 3 weeks |
-| 10 | Testing & Deployment | Publishing to app stores | 3 weeks |
+| # | Skill | Description |
+|---|-------|-------------|
+| 1 | Programming Fundamentals | JavaScript/Dart or Swift/Kotlin | 
+| 2 | Git & GitHub | Version control and collaboration | 
+| 3 | Mobile UI/UX Basics | Design principles for mobile | 
+| 4 | Choose Your Path | Cross-platform OR Native development |
+| 5 | Core Framework | React Native/Flutter OR Swift/Kotlin | 
+| 6 | Navigation & Routing | Multi-screen apps | 
+| 7 | State Management | Managing app data | 
+| 8 | APIs & Backend Integration | Connecting to servers | 
+| 9 | Device Features | Camera, GPS, notifications, storage |
+| 10 | Testing & Deployment | Publishing to app stores | 
 
-**Total Timeline:** 8-12 months (studying 2-3 hours daily)
 
 ---
 
@@ -122,13 +121,6 @@ You can always learn native development later if needed!
 
 ### 📘 React Native Path (JavaScript/TypeScript):
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [JavaScript.info](https://javascript.info/)
@@ -151,13 +143,6 @@ You can always learn native development later if needed!
 
 ### 📗 Flutter Path (Dart):
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Dart Official Tutorial](https://dart.dev/tutorials)
@@ -180,13 +165,6 @@ You can always learn native development later if needed!
 
 ### 📙 Swift Path (iOS Native):
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Swift Official Documentation](https://docs.swift.org/)
@@ -208,14 +186,6 @@ You can always learn native development later if needed!
 ---
 
 ### 📕 Kotlin Path (Android Native):
-
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Kotlin Official Docs](https://kotlinlang.org/docs/home.html)
@@ -469,27 +439,22 @@ Mobile development is one of the most rewarding tech careers. You'll create apps
 ## 💰 Career Opportunities
 
 **React Native Developer**
-- 💰 Average Salary: $80K–$130K/year
 - 📍 Remote-friendly
 - 🚀 Very high demand
 
 **Flutter Developer**
-- 💰 Average Salary: $75K–$125K/year
 - 📍 Remote-friendly
 - 🚀 Growing rapidly
 
 **iOS Developer**
-- 💰 Average Salary: $90K–$140K/year
 - 📍 Remote-friendly
 - 🚀 High demand, premium market
 
 **Android Developer**
-- 💰 Average Salary: $85K–$135K/year
 - 📍 Remote-friendly
 - 🚀 High demand, huge market
 
 **Full-Stack Mobile + Backend**
-- 💰 Average Salary: $100K–$160K/year
 - 📍 Remote-friendly
 - 🚀 Extremely high demand
 
@@ -590,14 +555,6 @@ Build a task management application.
 
 **Description:** Version control for mobile projects. Essential for collaboration and portfolio.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
-
 **Recommended Free Resources:**
 - [Git Official Documentation](https://git-scm.com/doc)
 - [GitHub Learning Lab](https://lab.github.com/)
@@ -686,14 +643,6 @@ Document all mobile apps professionally.
 ### 🧩 Skill 3 — Mobile UI/UX Basics
 
 **Description:** Learn mobile design principles and create user-friendly interfaces.
-
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Material Design Guidelines](https://material.io/design)
@@ -807,13 +756,6 @@ The remaining skills (5-10) will follow the path you choose:
 
 **Description:** Deep dive into React Native to build production-ready mobile apps.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [React Native Official Docs](https://reactnative.dev/)
@@ -915,13 +857,6 @@ Build a shopping app interface.
 
 **Description:** Master multi-screen navigation and deep linking.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [React Navigation Docs](https://reactnavigation.org/)
@@ -1020,13 +955,6 @@ Build a cooking app with advanced navigation.
 
 **Description:** Manage complex application state efficiently across screens.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [React Context API](https://react.dev/learn/passing-data-deeply-with-context)
@@ -1127,13 +1055,6 @@ Build an Instagram-like feed with real-time interactions.
 
 **Description:** Connect your mobile app to backend servers and handle data.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Axios Documentation](https://axios-http.com/)
@@ -1238,13 +1159,6 @@ Build a messaging app with WebSocket or Firebase.
 
 **Description:** Access device hardware and native functionality.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Expo SDK](https://docs.expo.dev/versions/latest/)
