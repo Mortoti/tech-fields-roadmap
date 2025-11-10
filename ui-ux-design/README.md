@@ -23,29 +23,26 @@ UI/UX designers create digital experiences that are both visually appealing and 
 ### Why UI/UX Design?
 ✅ **High demand** — Every digital product needs design  
 ✅ **Creative work** — Express your artistic side  
-✅ **Direct impact** — See your designs come to life  
-✅ **Excellent pay** — $70K-$140K+ average  
+✅ **Direct impact** — See your designs come to life    
 ✅ **Remote-friendly** — Work from anywhere  
 ✅ **Empathy-driven** — Help real people solve real problems  
 
 ---
 
-## 2️⃣ Complete Skills List & Timeline
+## 2️⃣ Complete Skills List
+| # | Skill | Description | 
+|---|-------|-------------|
+| 1 | Design Fundamentals | Color, typography, layout principles | 
+| 2 | User Research | Understanding user needs and behaviors | 
+| 3 | Wireframing | Creating low-fidelity layouts | 
+| 4 | UI Design | Visual design and interface elements |
+| 5 | Prototyping | Interactive mockups and flows | 
+| 6 | Design Tools | Figma, Adobe XD, Sketch | 
+| 7 | Usability Testing | Validating designs with real users | 
+| 8 | Design Systems | Creating scalable design frameworks | 
+| 9 | Interaction Design | Animations and micro-interactions | 
+| 10 | Accessibility | Designing for all users | 
 
-| # | Skill | Description | Duration |
-|---|-------|-------------|----------|
-| 1 | Design Fundamentals | Color, typography, layout principles | 4 weeks |
-| 2 | User Research | Understanding user needs and behaviors | 5 weeks |
-| 3 | Wireframing | Creating low-fidelity layouts | 3 weeks |
-| 4 | UI Design | Visual design and interface elements | 6 weeks |
-| 5 | Prototyping | Interactive mockups and flows | 4 weeks |
-| 6 | Design Tools | Figma, Adobe XD, Sketch | 6 weeks |
-| 7 | Usability Testing | Validating designs with real users | 4 weeks |
-| 8 | Design Systems | Creating scalable design frameworks | 5 weeks |
-| 9 | Interaction Design | Animations and micro-interactions | 4 weeks |
-| 10 | Accessibility | Designing for all users | 3 weeks |
-
-**Total Timeline:** 6-10 months (studying 3-4 hours daily)
 
 ---
 
@@ -465,31 +462,7 @@ Build design system with accessibility built-in: contrast checks, focus states, 
 
 > **Network actively.** Join design communities, attend meetups, share your work.
 
----
 
-## 🎯 Career Paths
-
-**Entry Level:**
-- Junior UI/UX Designer — $55K-$75K
-- Product Designer — $60K-$80K
-- Visual Designer — $50K-$70K
-
-**Mid Level:**
-- UI/UX Designer — $75K-$110K
-- Product Designer — $85K-$120K
-- Interaction Designer — $80K-$115K
-
-**Senior Level:**
-- Senior Product Designer — $110K-$150K
-- Design Lead — $120K-$160K
-- Design Director — $130K-$180K
-
-**Specialized:**
-- UX Researcher — $90K-$140K
-- Design Systems Designer — $100K-$145K
-- Design Manager — $120K-$170K
-
----
 
 ## 🚀 You're Ready for UI/UX Design!
 
