@@ -22,28 +22,26 @@ AI & Machine Learning is about creating systems that can learn from data, make d
 
 ### Why AI & Machine Learning?
 ✅ **Future-proof career** — AI is transforming every industry  
-✅ **Highest salaries** — $120K-$250K+ for AI engineers  
 ✅ **Solve big problems** — Climate, healthcare, education  
 ✅ **Research opportunities** — Publish papers, innovate  
 ✅ **Work on cutting-edge tech** — GPT, self-driving, robotics
 
 ---
 
-## 2️⃣ Complete Skills List & Timeline
+## 2️⃣ Complete Skills List 
 
-| # | Skill | Description | Duration |
-|---|-------|-------------|----------|
-| 1 | Python & Programming | Advanced Python for AI | 6 weeks |
-| 2 | Mathematics for AI | Linear algebra, calculus, probability | 10 weeks |
-| 3 | Machine Learning Fundamentals | Classical ML algorithms | 8 weeks |
-| 4 | Deep Learning Basics | Neural networks, backpropagation | 8 weeks |
-| 5 | Computer Vision | CNNs, image processing | 8 weeks |
-| 6 | Natural Language Processing | NLP, transformers, LLMs | 8 weeks |
-| 7 | Advanced Deep Learning | GANs, reinforcement learning | 8 weeks |
-| 8 | MLOps & Production AI | Deploy and scale AI systems | 6 weeks |
-| 9 | Research & Specialization | Research papers, specialization | Ongoing |
+| # | Skill | Description | 
+|---|-------|-------------|
+| 1 | Python & Programming | Advanced Python for AI | 
+| 2 | Mathematics for AI | Linear algebra, calculus, probability | 
+| 3 | Machine Learning Fundamentals | Classical ML algorithms | 
+| 4 | Deep Learning Basics | Neural networks, backpropagation | 
+| 5 | Computer Vision | CNNs, image processing | 
+| 6 | Natural Language Processing | NLP, transformers, LLMs | 
+| 7 | Advanced Deep Learning | GANs, reinforcement learning | 
+| 8 | MLOps & Production AI | Deploy and scale AI systems | 
+| 9 | Research & Specialization | Research papers, specialization | 
 
-**Total Timeline:** 12-24 months (studying 3-4 hours daily)
 
 ---
 
@@ -53,10 +51,7 @@ AI & Machine Learning is about creating systems that can learn from data, make d
 
 **Description:** Master Python and software engineering for AI development.
 
-#### 📚 Learning Resources
 
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
 
 **Recommended Free Resources:**
 - [Python.org Documentation](https://docs.python.org/3/)
@@ -153,10 +148,6 @@ Create system to track ML experiments.
 
 **Description:** Master the mathematical foundations of AI and deep learning.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
 
 **Recommended Free Resources:**
 - [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -253,10 +244,6 @@ Implement and visualize probability distributions.
 
 **Description:** Master classical ML algorithms before deep learning.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
 
 **Recommended Free Resources:**
 - [Scikit-learn Documentation](https://scikit-learn.org/)
@@ -353,10 +340,6 @@ Build automated machine learning pipeline.
 
 **Description:** Master neural networks and deep learning frameworks.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
 
 **Recommended Free Resources:**
 - [Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)
@@ -456,11 +439,6 @@ Implement artistic style transfer using CNNs.
 
 **Description:** Build systems that understand and process visual data.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
 **Recommended Free Resources:**
 - [CS231n: CNNs for Visual Recognition](http://cs231n.stanford.edu/)
 - [PyImageSearch](https://pyimagesearch.com/)
@@ -558,10 +536,6 @@ Analyze X-rays or medical scans using AI.
 
 **Description:** Build systems that understand and generate human language.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
 
 **Recommended Free Resources:**
 - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/)
@@ -659,11 +633,6 @@ Build automatic text summarization system.
 
 **Description:** Master cutting-edge AI techniques and research areas.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
 **Recommended Free Resources:**
 - [Spinning Up in Deep RL (OpenAI)](https://spinningup.openai.com/)
 - [GAN Specialization (Coursera)](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
@@ -759,11 +728,6 @@ Build model that learns from few examples.
 ### 🧩 Skill 8 — MLOps & Production AI
 
 **Description:** Deploy, monitor, and scale AI systems in production.
-
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
 
 **Recommended Free Resources:**
 - [MLflow Documentation](https://mlflow.org/)
@@ -862,11 +826,6 @@ Train models on multiple GPUs/machines.
 
 **Description:** Contribute to AI research and specialize in your interest area.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
 **Recommended Free Resources:**
 - [arXiv.org](https://arxiv.org/) — Research papers
 - [Papers with Code](https://paperswithcode.com/)
@@ -892,7 +851,7 @@ Train models on multiple GPUs/machines.
 Implement recent AI research paper.
 
 **What it includes:**
-- Choose recent paper (6-12 months old)
+- Choose recent paper 
 - Reproduce results
 - Code from scratch
 - Ablation studies
@@ -1078,19 +1037,6 @@ After completing fundamentals, choose your specialization:
 - Neural architecture search
 - Explainable AI
 - AI safety and alignment
-
----
-
-## 💰 Career Opportunities
-
-**ML Engineer:** $120K-$180K  
-**AI Research Engineer:** $140K-$200K  
-**Computer Vision Engineer:** $130K-$190K  
-**NLP Engineer:** $135K-$195K  
-**Research Scientist:** $150K-$300K  
-**AI Architect:** $180K-$350K
-
-**Big Tech (Google, Meta, OpenAI):** $200K-$500K+ (with equity)
 
 ---
 
