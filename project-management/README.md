@@ -24,7 +24,6 @@ Tech project managers orchestrate the delivery of software products and technica
 
 ### Why Project Management?
 ✅ **High demand** — Every tech company needs PMs  
-✅ **Excellent pay** — $75K-$150K+ average  
 ✅ **Leadership role** — Guide teams to success  
 ✅ **Tech + business** — Bridge both worlds  
 ✅ **Career growth** — Path to VP/C-level roles  
@@ -32,22 +31,21 @@ Tech project managers orchestrate the delivery of software products and technica
 
 ---
 
-## 2️⃣ Complete Skills List & Timeline
+## 2️⃣ Complete Skills List
 
-| # | Skill | Description | Duration |
-|---|-------|-------------|----------|
-| 1 | PM Fundamentals | Core concepts and frameworks | 3 weeks |
-| 2 | Agile & Scrum | Iterative development methodologies | 4 weeks |
-| 3 | Project Planning | Roadmaps, timelines, resource allocation | 3 weeks |
-| 4 | Stakeholder Management | Communication and expectation setting | 4 weeks |
-| 5 | Team Leadership | Motivating and managing teams | 4 weeks |
-| 6 | PM Tools | JIRA, Asana, Monday, Confluence | 3 weeks |
-| 7 | Technical Fluency | Understanding software development | 5 weeks |
-| 8 | Risk Management | Identifying and mitigating risks | 3 weeks |
-| 9 | Metrics & Reporting | KPIs, dashboards, data-driven decisions | 3 weeks |
-| 10 | Product Strategy | Vision, roadmaps, prioritization | 4 weeks |
+| # | Skill | Description | 
+|---|-------|-------------|
+| 1 | PM Fundamentals | Core concepts and frameworks | 
+| 2 | Agile & Scrum | Iterative development methodologies | 
+| 3 | Project Planning | Roadmaps, timelines, resource allocation |
+| 4 | Stakeholder Management | Communication and expectation setting |
+| 5 | Team Leadership | Motivating and managing teams |
+| 6 | PM Tools | JIRA, Asana, Monday, Confluence | 
+| 7 | Technical Fluency | Understanding software development | 
+| 8 | Risk Management | Identifying and mitigating risks | 
+| 9 | Metrics & Reporting | KPIs, dashboards, data-driven decisions | 
+| 10 | Product Strategy | Vision, roadmaps, prioritization |
 
-**Total Timeline:** 3-6 months (studying 3-4 hours daily, faster with tech background)
 
 ---
 
@@ -481,29 +479,6 @@ Define quarterly OKRs: business objectives, key results, initiatives, metrics, t
 
 > **Develop empathy.** Understand your team's challenges and your users' needs.
 
----
-
-## 🎯 Career Paths
-
-**Entry Level:**
-- Associate Product Manager — $60K-$80K
-- Project Coordinator — $50K-$70K
-- Junior Scrum Master — $55K-$75K
-
-**Mid Level:**
-- Technical Project Manager — $80K-$120K
-- Scrum Master — $75K-$110K
-- Product Manager — $90K-$130K
-
-**Senior Level:**
-- Senior Project Manager — $110K-$150K
-- Senior Product Manager — $120K-$160K
-- Program Manager — $115K-$155K
-
-**Leadership:**
-- Director of Product — $140K-$200K
-- VP of Product — $180K-$280K
-- Chief Product Officer — $250K-$400K+
 
 ---
 
