@@ -160,8 +160,7 @@ Analyze employee productivity and performance metrics.
 **YouTube Tutorial:**
 > [https://youtu.be/HXV3zeQKqGY?si=SKUP1bEKHqGVHID2]
 
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
+
 
 **Recommended Free Resources:**
 - [SQLBolt](https://sqlbolt.com/)
@@ -473,8 +472,6 @@ Analyze stock market or financial data.
 **YouTube Tutorial:**
 > [https://youtu.be/j8FSP8XuFyk?si=yTe27HIVWaU8BXqA]
 
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Tableau Public Resources](https://public.tableau.com/en-us/s/resources)
