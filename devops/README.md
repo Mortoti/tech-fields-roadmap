@@ -22,7 +22,6 @@ DevOps engineers automate software deployment, manage infrastructure as code, bu
 
 ### Why DevOps?
 ✅ **High demand** — Every company needs DevOps  
-✅ **Excellent pay** — $90K-$160K+ average  
 ✅ **Automation focus** — Less manual work, more efficiency  
 ✅ **Cloud-first** — Work with cutting-edge technology  
 ✅ **Problem-solving** — Complex challenges daily  
@@ -30,22 +29,21 @@ DevOps engineers automate software deployment, manage infrastructure as code, bu
 
 ---
 
-## 2️⃣ Complete Skills List & Timeline
+## 2️⃣ Complete Skills List
 
-| # | Skill | Description | Duration |
-|---|-------|-------------|----------|
-| 1 | Linux & Command Line | Foundation for all DevOps work | 4 weeks |
-| 2 | Version Control (Git) | Manage code and collaborate | 2 weeks |
-| 3 | Programming/Scripting | Python, Bash, Go | 6 weeks |
-| 4 | Networking & Security | Essential infrastructure knowledge | 4 weeks |
-| 5 | Cloud Platforms | AWS, Azure, or GCP | 8 weeks |
-| 6 | Containerization | Docker and container orchestration | 4 weeks |
-| 7 | Kubernetes | Container orchestration at scale | 6 weeks |
-| 8 | CI/CD Pipelines | Jenkins, GitLab CI, GitHub Actions | 5 weeks |
-| 9 | Infrastructure as Code | Terraform, Ansible, CloudFormation | 6 weeks |
-| 10 | Monitoring & Logging | Prometheus, Grafana, ELK Stack | 4 weeks |
+| # | Skill | Description | 
+|---|-------|-------------|
+| 1 | Linux & Command Line | Foundation for all DevOps work | 
+| 2 | Version Control (Git) | Manage code and collaborate | 
+| 3 | Programming/Scripting | Python, Bash, Go |
+| 4 | Networking & Security | Essential infrastructure knowledge | 
+| 5 | Cloud Platforms | AWS, Azure, or GCP | 
+| 6 | Containerization | Docker and container orchestration |
+| 7 | Kubernetes | Container orchestration at scale | 
+| 8 | CI/CD Pipelines | Jenkins, GitLab CI, GitHub Actions | 
+| 9 | Infrastructure as Code | Terraform, Ansible, CloudFormation |
+| 10 | Monitoring & Logging | Prometheus, Grafana, ELK Stack |
 
-**Total Timeline:** 8-12 months (studying 3-4 hours daily)
 
 ---
 
@@ -459,24 +457,6 @@ Build complete observability: metrics (Prometheus), logs (ELK), traces (Jaeger),
 
 > **Build in public.** Share your infrastructure code, write blog posts, help others.
 
----
-
-## 🎯 Career Paths
-
-**Entry Level:**
-- Junior DevOps Engineer — $70K-$90K
-- Cloud Support Engineer — $60K-$80K
-- Build/Release Engineer — $65K-$85K
-
-**Mid Level:**
-- DevOps Engineer — $90K-$130K
-- Site Reliability Engineer — $100K-$140K
-- Cloud Engineer — $95K-$125K
-
-**Senior Level:**
-- Senior DevOps Engineer — $130K-$170K
-- DevOps Architect — $140K-$180K
-- Principal SRE — $160K-$220K
 
 ---
 
