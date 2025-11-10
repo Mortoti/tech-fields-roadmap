@@ -29,20 +29,19 @@ Data Analytics is the process of examining, cleaning, and transforming data to d
 
 ---
 
-## 2️⃣ Complete Skills List & Timeline
+## 2️⃣ Complete Skills List 
 
-| # | Skill | Description | Duration |
-|---|-------|-------------|----------|
-| 1 | Excel Fundamentals | Data manipulation and basic analysis | 3 weeks |
-| 2 | SQL & Databases | Querying and data extraction | 4 weeks |
-| 3 | Statistics Basics | Understanding data fundamentals | 3 weeks |
-| 4 | Python for Analytics | Pandas, NumPy for data work | 4 weeks |
-| 5 | Data Visualization | Tableau or Power BI | 3 weeks |
-| 6 | Data Cleaning | Preparing messy real-world data | 2 weeks |
-| 7 | Business Intelligence | KPIs, metrics, dashboards | 3 weeks |
-| 8 | Portfolio Projects | Real-world case studies | 4 weeks |
+| # | Skill | Description |
+|---|-------|-------------|
+| 1 | Excel Fundamentals | Data manipulation and basic analysis | 
+| 2 | SQL & Databases | Querying and data extraction |
+| 3 | Statistics Basics | Understanding data fundamentals | 
+| 4 | Python for Analytics | Pandas, NumPy for data work |
+| 5 | Data Visualization | Tableau or Power BI | 
+| 6 | Data Cleaning | Preparing messy real-world data | 
+| 7 | Business Intelligence | KPIs, metrics, dashboards | 
+| 8 | Portfolio Projects | Real-world case studies | 
 
-**Total Timeline:** 4-6 months (studying 2-3 hours daily)
 
 ---
 
@@ -887,22 +886,12 @@ Compete in a Kaggle analytics competition.
 6. **Explore data engineering** — ETL, data pipelines, cloud platforms
 7. **Move to data science** — Machine learning, predictive modeling
 
----
-
-## 💰 Career Opportunities
-
-**Junior Data Analyst:** $50K-$70K  
-**Data Analyst:** $70K-$95K  
-**Senior Data Analyst:** $95K-$120K  
-**Business Intelligence Analyst:** $80K-$110K  
-**Analytics Manager:** $110K-$150K
 
 ---
 
 ## 🚀 You're Ready to Start Your Data Career!
 
-Data analytics is one of the most accessible tech careers. You don't need a CS degree or years of coding. With Excel, SQL, and storytelling skills, you can land your first role in 4-6 months.
-
+Data analytics is one of the most accessible tech careers. You don't need a CS degree or years of coding. With Excel, SQL, and storytelling skills, you can land your first role.
 **Remember:** Every business decision at every company is driven by data analysts. Your insights will shape strategy and drive millions in revenue.
 
 ---
