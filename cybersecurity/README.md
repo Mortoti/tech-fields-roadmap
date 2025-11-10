@@ -22,29 +22,27 @@ Cybersecurity professionals protect organizations from cyberattacks, secure netw
 
 ### Why Cybersecurity?
 ✅ **High demand** — Massive skills shortage globally  
-✅ **Job security** — Threats never stop, neither does demand  
-✅ **Excellent pay** — $70K-$150K+ average  
+✅ **Job security** — Threats never stop, neither does demand    
 ✅ **Constant learning** — New challenges daily  
 ✅ **Make real impact** — Protect organizations and people  
 ✅ **Remote-friendly** — Work from anywhere
 
 ---
 
-## 2️⃣ Complete Skills List & Timeline
+## 2️⃣ Complete Skills List 
+| # | Skill | Description | 
+|---|-------|-------------|
+| 1 | IT Fundamentals | Computer basics and networking | 
+| 2 | Linux Mastery | Primary OS for security work |
+| 3 | Networking Deep Dive | Protocols, architecture, analysis | 
+| 4 | Programming for Security | Python, Bash scripting |
+| 5 | Web Application Security | OWASP Top 10, common vulnerabilities | 
+| 6 | Ethical Hacking | Penetration testing methodology |
+| 7 | Security Tools | Nmap, Burp Suite, Metasploit, Wireshark | 
+| 8 | Defensive Security | SOC operations, incident response | 
+| 9 | Certifications & Portfolio | CEH/OSCP prep, capture the flags |
 
-| # | Skill | Description | Duration |
-|---|-------|-------------|----------|
-| 1 | IT Fundamentals | Computer basics and networking | 4 weeks |
-| 2 | Linux Mastery | Primary OS for security work | 6 weeks |
-| 3 | Networking Deep Dive | Protocols, architecture, analysis | 6 weeks |
-| 4 | Programming for Security | Python, Bash scripting | 6 weeks |
-| 5 | Web Application Security | OWASP Top 10, common vulnerabilities | 5 weeks |
-| 6 | Ethical Hacking | Penetration testing methodology | 8 weeks |
-| 7 | Security Tools | Nmap, Burp Suite, Metasploit, Wireshark | 6 weeks |
-| 8 | Defensive Security | SOC operations, incident response | 6 weeks |
-| 9 | Certifications & Portfolio | CEH/OSCP prep, capture the flags | 8 weeks |
 
-**Total Timeline:** 10-15 months (studying 3-4 hours daily)
 
 ---
 
@@ -430,24 +428,7 @@ Create video tutorials: tool demonstrations, vulnerability explanations, walkthr
 
 ---
 
-## 🎯 Career Paths
 
-**Entry Level:**
-- Security Analyst — $60K-$80K
-- SOC Analyst — $55K-$75K
-- Junior Penetration Tester — $65K-$85K
-
-**Mid Level:**
-- Penetration Tester — $85K-$120K
-- Security Engineer — $90K-$130K
-- Incident Responder — $80K-$110K
-
-**Senior Level:**
-- Senior Penetration Tester — $120K-$160K
-- Security Architect — $130K-$180K
-- Red Team Lead — $140K-$200K
-
----
 
 ## 🚀 You're Ready for Cybersecurity!
 
