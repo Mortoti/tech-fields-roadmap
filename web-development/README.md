@@ -54,7 +54,7 @@ Web development involves:
 - Interactive dashboards
 - Clone popular websites (Netflix, Spotify UI)
 
-**Timeline:** 4–8 months to job-ready
+
 
 [🚀 Start Frontend Path →](./frontend/README.md)
 
@@ -79,8 +79,6 @@ Web development involves:
 - REST APIs for mobile apps
 - E-commerce checkout systems
 - Real-time chat applications
-
-**Timeline:** 6–10 months to job-ready
 
 [🚀 Start Backend Path →](./backend/README.md)
 
@@ -111,14 +109,14 @@ Web development involves:
 
 ```
 ┌─────────────┐
-│  Frontend   │  (4-8 months)
+│  Frontend   │  
 │   Basics    │
 └──────┬──────┘
        │
        ├─────► Build 5-10 projects
        │
 ┌──────▼──────┐
-│   Backend   │  (Optional, +4-6 months)
+│   Backend   │  
 │   Basics    │
 └──────┬──────┘
        │
@@ -167,19 +165,14 @@ After completing **Both (Full-Stack):**
 ## 💼 Career Opportunities
 
 **Frontend Developer**
-- 💰 Average Salary: $70K–$120K/year
 - 📍 Remote-friendly
 - 🚀 High demand
 
 **Backend Developer**
-- 💰 Average Salary: $80K–$130K/year
 - 📍 Remote-friendly
 - 🚀 High demand
 
-**Full-Stack Developer**
-- 💰 Average Salary: $90K–$150K/year
-- 📍 Remote-friendly
-- 🚀 Extremely high demand
+
 
 ---
 
