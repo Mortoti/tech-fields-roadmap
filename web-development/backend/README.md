@@ -29,7 +29,7 @@ Backend development is building the server-side of applications—the logic, dat
 
 ---
 
-## 2️⃣ Complete Skills List & Timeline
+## 2️⃣ Complete Skills List
 
 | # | Skill | Description | 
 |---|-------|-------------|
