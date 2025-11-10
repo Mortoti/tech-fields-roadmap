@@ -55,10 +55,8 @@ Data Analytics is the process of examining, cleaning, and transforming data to d
 #### 📚 Learning Resources
 
 **YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
+> [https://youtu.be/wbJcJCkBcMg?si=3I0BK3kBerAJz-Ck]
 
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Excel Easy](https://www.excel-easy.com/)
@@ -160,7 +158,7 @@ Analyze employee productivity and performance metrics.
 #### 📚 Learning Resources
 
 **YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
+> [https://youtu.be/HXV3zeQKqGY?si=SKUP1bEKHqGVHID2]
 
 **PDF/Documentation:**
 > [ADD PDF LINK HERE]
@@ -267,10 +265,9 @@ Analyze employee data for HR insights.
 #### 📚 Learning Resources
 
 **YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
+> [https://youtu.be/xxpc-HPKN28?si=Sdtb2jniyiqDPzvE]
 
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
+
 
 **Recommended Free Resources:**
 - [Khan Academy Statistics](https://www.khanacademy.org/math/statistics-probability)
@@ -371,10 +368,9 @@ Predict future sales using historical data.
 #### 📚 Learning Resources
 
 **YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
+> [https://youtu.be/r-uOLxNrNk8?si=xi428es4g7OJgoGs]
 
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
+
 
 **Recommended Free Resources:**
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
@@ -475,7 +471,7 @@ Analyze stock market or financial data.
 #### 📚 Learning Resources
 
 **YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
+> [https://youtu.be/j8FSP8XuFyk?si=yTe27HIVWaU8BXqA]
 
 **PDF/Documentation:**
 > [ADD PDF LINK HERE]
@@ -579,10 +575,8 @@ Visualize employee data for HR decision-making.
 #### 📚 Learning Resources
 
 **YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
+> [https://youtu.be/-9twMZHGln4?si=q3Wa1C-mgluOqc3Z]
 
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 #### 🧠 What You'll Learn
 - [ ] Identifying data quality issues
@@ -655,10 +649,9 @@ Combine data from multiple sources into one clean dataset.
 #### 📚 Learning Resources
 
 **YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
+> [https://youtu.be/l98-BcB3UIE?si=Ydmv1JPjjriMyVn6]
 
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
+
 
 #### 🧠 What You'll Learn
 - [ ] Key Performance Indicators (KPIs)
@@ -726,15 +719,7 @@ Analyze conversion funnel and identify bottlenecks.
 
 ### 🧩 Skill 8 — Portfolio & Case Studies
 
-**Description:** Build a professional portfolio with real-world projects.
-
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
+**Description:** Build a professional portfolio with real-world project
 
 #### 🧠 What You'll Learn
 - [ ] Portfolio website creation
