@@ -29,21 +29,20 @@ Frontend development is creating everything users see and interact with on a web
 
 ## 2️⃣ Complete Skills List & Timeline
 
-| # | Skill | Description | Duration |
-|---|-------|-------------|----------|
-| 1 | HTML | Structure and content of web pages | 2 weeks |
-| 2 | Git & GitHub | Version control and collaboration | 1 week |
-| 3 | CSS | Styling, layouts, and design | 3 weeks |
-| 4 | Responsive Design | Making sites work on all screen sizes | 2 weeks |
-| 5 | JavaScript Basics | Adding interactivity and logic | 4 weeks |
-| 6 | DOM Manipulation | Controlling web pages with JavaScript | 2 weeks |
-| 7 | CSS Frameworks | Bootstrap or Tailwind CSS | 2 weeks |
-| 8 | JavaScript Advanced | ES6+, async programming, APIs | 4 weeks |
-| 9 | React.js | Modern frontend framework | 6 weeks |
-| 10 | State Management | Managing complex data in React | 2 weeks |
-| 11 | Portfolio & Deployment | Showcase your work online | 1 week |
+| # | Skill | Description | 
+|---|-------|-------------|
+| 1 | HTML | Structure and content of web pages | 
+| 2 | Git & GitHub | Version control and collaboration | 
+| 3 | CSS | Styling, layouts, and design | 
+| 4 | Responsive Design | Making sites work on all screen sizes | 
+| 5 | JavaScript Basics | Adding interactivity and logic | 
+| 6 | DOM Manipulation | Controlling web pages with JavaScript | 
+| 7 | CSS Frameworks | Bootstrap or Tailwind CSS | 
+| 8 | JavaScript Advanced | ES6+, async programming, APIs | 
+| 9 | React.js | Modern frontend framework | 
+| 10 | State Management | Managing complex data in React |
+| 11 | Portfolio & Deployment | Showcase your work online | 
 
-**Total Timeline:** 6-8 months (studying 2-3 hours daily)
 
 ---
 
@@ -53,13 +52,6 @@ Frontend development is creating everything users see and interact with on a web
 
 **Description:** HTML is the skeleton of every website. It defines the structure and content—headings, paragraphs, images, links, forms, etc.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [MDN HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML)
@@ -150,13 +142,6 @@ Build a comprehensive form with various input types.
 
 **Description:** Version control system to track changes, collaborate with others, and showcase your projects online. Learn this early to document your progress from day one.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Git Official Documentation](https://git-scm.com/doc)
@@ -238,13 +223,6 @@ Create comprehensive documentation for all your existing projects.
 
 **Description:** CSS makes websites beautiful. It controls colors, fonts, spacing, layouts, and visual design.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [MDN CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/CSS)
@@ -334,13 +312,6 @@ Build an Instagram-style photo gallery with a modern grid layout.
 
 **Description:** Make websites look great on all devices—desktop, tablet, and mobile. Essential for modern web development.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [MDN Responsive Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
@@ -428,14 +399,6 @@ Create a complete landing page for a fictional product/service.
 ### 🧩 Skill 5 — JavaScript Basics
 
 **Description:** JavaScript brings websites to life with interactivity, logic, and dynamic content. The programming language of the web.
-
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [JavaScript.info](https://javascript.info/)
@@ -530,14 +493,6 @@ Build a multiple-choice quiz with scoring and feedback.
 
 **Description:** Control and modify web pages dynamically using JavaScript. Change content, styles, and structure on the fly.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
-
 **Recommended Free Resources:**
 - [MDN DOM Introduction](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - [JavaScript DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc)
@@ -622,7 +577,7 @@ Build a registration form with live validation feedback.
 
 **What you'll practice:** Form events, input validation, regular expressions, conditional rendering, user feedback, preventing default behavior
 
----
+
 
 ---
 
@@ -630,13 +585,6 @@ Build a registration form with live validation feedback.
 
 **Description:** Pre-built CSS components and utilities to build professional-looking websites faster.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Bootstrap Documentation](https://getbootstrap.com/docs/)
@@ -718,7 +666,7 @@ Create a professional dashboard interface with sidebar and content area.
 
 **What you'll practice:** Complex layouts, navigation patterns, tables, cards, responsive sidebar, dashboard UI, professional business applications
 
----
+
 
 ---
 
@@ -726,13 +674,7 @@ Create a professional dashboard interface with sidebar and content area.
 
 **Description:** Modern JavaScript features that make code cleaner, more efficient, and professional.
 
-#### 📚 Learning Resources
 
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [ES6 for Everyone (Wes Bos)](https://es6.io/)
@@ -830,13 +772,6 @@ Build a movie database search using the OMDB API.
 
 **Description:** The most popular JavaScript library for building modern, component-based user interfaces. Used by Facebook, Netflix, Instagram.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [React Official Tutorial](https://react.dev/learn)
@@ -944,13 +879,6 @@ Build a blog application with multiple routes and dynamic pages.
 
 **Description:** Managing complex application state efficiently. Learn Context API or Redux for larger applications.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [React Context API Docs](https://react.dev/learn/passing-data-deeply-with-context)
@@ -1049,13 +977,6 @@ Build a project management tool with multiple views and complex state.
 
 **Description:** Build a professional portfolio to showcase your projects and deploy it online.
 
-#### 📚 Learning Resources
-
-**YouTube Tutorial:**
-> [ADD YOUTUBE LINK HERE]
-
-**PDF/Documentation:**
-> [ADD PDF LINK HERE]
 
 **Recommended Free Resources:**
 - [Netlify Documentation](https://docs.netlify.com/)
